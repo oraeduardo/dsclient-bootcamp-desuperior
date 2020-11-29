@@ -1,5 +1,12 @@
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Eduardo', '23476537819', 1500.0, TIMESTAMP WITH TIME ZONE '1981-04-25T10:00:00Z', 1);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Karen', '34525678391', 2100.0, TIMESTAMP WITH TIME ZONE '1982-01-21T10:00:00Z', 1);
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Sarah', '18987329834', 300.0, TIMESTAMP WITH TIME ZONE '2018-02-03T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Sarah', '18987329834', 3300.0, TIMESTAMP WITH TIME ZONE '2018-02-03T10:00:00Z', 0);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Lucia', '09834576328', 3476.2, TIMESTAMP WITH TIME ZONE '1955-12-06T10:00:00Z', 3);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Laerte', '12308734589', 1687.3, TIMESTAMP WITH TIME ZONE '1951-03-10T10:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Giovana', '78549083456', 1600.0, TIMESTAMP WITH TIME ZONE '1979-04-07T10:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ligia', '12897563890', 2700.0, TIMESTAMP WITH TIME ZONE '1982-09-25T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Pedro', '678973546789', 3130.0, TIMESTAMP WITH TIME ZONE '2004-03-10T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Sophia', '26475908648', 5689.2, TIMESTAMP WITH TIME ZONE '2002-12-06T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Feliciano', '27589378475', 2758.3, TIMESTAMP WITH TIME ZONE '1960-10-10T10:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Antonio Sellis', '46762789823', 57689.38, TIMESTAMP WITH TIME ZONE '1955-08-29T10:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Cleide Prado', '00247589347', 3475.45, TIMESTAMP WITH TIME ZONE '1961-06-15T10:00:00Z', 3);
